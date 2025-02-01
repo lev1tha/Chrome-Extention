@@ -6,5 +6,3 @@ document.getElementById("buy-premium").addEventListener("click", () => {
       })
       .catch(err => console.error("Ошибка оплаты:", err));
 });
-
-git commit -m "first commit"
